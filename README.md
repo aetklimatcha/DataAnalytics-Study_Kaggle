@@ -1,2 +1,2 @@
 # EDA-Study_Kaggle
-EDA with Kaggle data
+캐글 데이터로 진행하는 탐색적 데이터 분석(EDA with Kaggle data)
